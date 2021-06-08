@@ -1,11 +1,13 @@
 # QCoC
-Question Classification of CoQA (QCoC) dataset
+<h1>Question Classification of CoQA (QCoC) dataset</h1>
 
 https://www.kaggle.com/saliimiabbas/question-classification-of-coqa-qcoc
 
 <b>Class categories and definition:</b>
-1. Yes/No
-2. Unknown 
-3. Picking
-4. Factual
-5. Counting/Rephrase
+<ol>
+  <li>Yes/No</li>
+  <li>Unknown</li> 
+  <li>Picking</li>
+  <li>Factual</li>
+  <li>Counting/Rephrase</li>
+</ol>
