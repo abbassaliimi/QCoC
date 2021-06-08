@@ -1,7 +1,9 @@
 # QCoC
-Question Classification of CoQA dataset in .json format
+Question Classification of CoQA (QCoC) dataset
 
-Class categories and definition:
+https://www.kaggle.com/saliimiabbas/question-classification-of-coqa-qcoc
+
+<b>Class categories and definition:</b>
 1. Yes/No
 2. Unknown 
 3. Picking
