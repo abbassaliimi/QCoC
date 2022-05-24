@@ -2,7 +2,7 @@
 <h1>Question Classification of CoQA (QCoC) dataset</h1>
 
 Dataset (json file): https://www.kaggle.com/datasets/saliimiabbas/question-classification-of-coqa-qcoc
-Paper: https://ieeexplore.ieee.org/abstract/document/9536971
+<br>Paper: https://ieeexplore.ieee.org/abstract/document/9536971
 
 <b>Class categories and definition:</b>
 <ol>
